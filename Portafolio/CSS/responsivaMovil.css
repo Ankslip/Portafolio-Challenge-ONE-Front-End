@@ -1,0 +1,133 @@
+            /*Mobile*/
+ @media (min-width: 425px) {
+    
+/*Menu*/
+    .menu{
+        padding-left: 2rem;
+        position:absolute;
+        width: 179%;
+    } 
+
+    .menu_header_img{
+        display: none;
+    }
+
+    /*Intro*/
+    .intro{
+        padding: 4rem 0rem 0rem 2rem;
+        width:179%;
+    }
+
+
+    .intro_div_per{
+        display: none;
+    }
+
+    .intro_container{
+        text-align: justify; 
+        margin-right: 2rem;
+    }
+
+    .formcontato_div_img{
+        display: none;
+    }
+
+    .formcontato_form{
+        margin-left: 0rem;
+    }
+
+    .formcontato_boton{
+        margin-left: 5rem;
+    }
+
+/*Sección sobre mi*/
+    .acercaDeMi{
+        padding-top:1rem;
+        width: 186%;
+    }
+
+/*Skills*/
+    .skills{
+        padding-top: 0rem;
+        width: 186%;
+    }
+
+/*Hobbies*/
+    .hobbies{
+    height: 22rem;
+    padding-top: 1rem;
+    width: 186%;
+    }
+
+/*Formación Académica*/
+    .academico{
+        width: 186%;
+    }
+
+    .academic_cursos_box{
+        width: 26%;
+    }
+
+    .academico_titulo{
+        padding-top: 0rem;
+    }
+
+/*Experiencia Profesional*/
+    .experiencia{
+    padding-top: 0rem;
+    width: 186%;
+    }
+
+    .experiencia_img-1{
+        width: 25rem;
+        padding-right: 1rem;
+    }
+
+    .experiencia_img-2{
+        width: 25rem;
+        padding-right: 1rem;
+    }
+
+/*Contacto*/
+
+    .formcontato{
+        width: 104%;
+        padding:  0rem 2rem 2rem 2rem;
+    }
+
+    .formcontato_div_img{
+    display: none;
+    }
+
+    .formcontato_form{
+        margin-left: 0rem;
+    }
+
+    .formcontato_boton{
+        margin-top: 1rem;
+        margin-left: 0rem;
+        width: 10rem;
+        height: 3rem;
+        border:turquoise solid;
+        background: turquoise;
+    }
+
+    .formcontato_input{
+        margin-right: 1rem;
+        width: 100%;
+        margin: 0rem;
+        height: 2rem;
+        border:lightgrey solid;
+        margin-top: 2rem;
+    }
+
+    .formcontato_textarea{
+        width: 45rem;
+        border:lightgrey solid;
+    }
+
+/*Footer*/
+    .footer{
+        width: 186%;
+    }
+    }

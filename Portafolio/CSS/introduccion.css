@@ -1,0 +1,54 @@
+.intro{
+    padding: 4rem 2rem 2rem 2rem;
+}
+
+.intro_div{
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+.intro_div_per{
+    display: flex;
+    padding-top: 1rem;
+    border-radius: 180rem;
+    height: 15rem;
+}
+
+.intro_container{
+    text-align: justify; 
+    padding-right: 1rem;
+}
+
+.intro__bio{
+    padding-top: 2rem;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-family: var(--montserrat);
+}
+
+h3{
+    font-family: var(--montserrat);
+}
+
+.intro_RS{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.intro_RS_item{
+    height: 2rem;
+}
+
+.intro_RS_estilos{
+    text-decoration: none;
+    color: var(--cor-de-link);
+    font-family: var(--oppen-sans);
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#iconos{
+    width: 1rem;
+    padding-left: 0.5rem;
+}

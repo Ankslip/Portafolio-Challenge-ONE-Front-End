@@ -1,0 +1,22 @@
+
+.footer{
+    background: var(--cor-seccion);
+    margin-bottom: -1rem;
+    text-align: center;
+}
+
+.footer__rodape{
+    font-family: var(--oppen-sans);
+}
+
+.footer_rodape_des{
+    font-size: 1rem;
+    font-weight: bold;
+    padding-top: 1rem;
+}
+
+.footer_rodape_año{
+    font-style: italic;
+    margin-top: -1rem;
+    padding-bottom: 1rem;
+}

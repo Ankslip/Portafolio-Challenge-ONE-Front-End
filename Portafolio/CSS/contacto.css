@@ -1,0 +1,40 @@
+.formcontato{
+    padding:  3rem 2rem 2rem 2rem;
+}
+
+.formcontato_contacto{
+    display: flex;
+}
+
+.formcontato_div_img{
+    width: 17rem;
+    padding-right: 2rem;
+}
+
+.formcontato_titulo{
+    text-align: center;
+    display: block;
+    font-size: 2rem;
+}
+
+.formcontato_subtext{
+    text-align: center;
+    display: block;
+    font-size: 1rem;
+}
+
+.formcontato_input{
+    margin-right: 1rem;
+}
+
+.formcontato_textarea{
+    width: 35.5rem;
+    margin-top: 1rem;
+}
+.formcontato_form{
+    margin-left: 12rem;
+}
+
+.formcontato_boton{
+    margin-left: 27rem;
+}

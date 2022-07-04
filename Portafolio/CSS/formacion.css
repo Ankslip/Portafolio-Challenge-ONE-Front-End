@@ -1,0 +1,36 @@
+.academico_titulo{
+    font-family: var(--montserrat) cursive;
+    text-align: center;
+    font-weight: 900;
+    padding-top: 5rem;
+}
+
+.academic_cursos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: var(--cor-hobbies);
+}
+
+.academic_cursos_box{
+    width: 20%;
+    border-radius: 25px;
+    padding: 2rem;
+    box-shadow: 5px 5px 7px 0px rgb(0 0 0 / 80%);
+    margin: auto;
+    margin-bottom: 2rem;
+
+}
+
+.academico_cursos_item_titulo{
+    text-align: center;
+    display: block;
+    font-size: 1.5rem;
+}
+
+.academico_cursos_item_subtitulo{
+    text-align: center;
+    display: block;
+    font-size: 1rem;
+}

@@ -1,0 +1,62 @@
+.experiencia{
+    background: var(--cor-seccion);
+    padding-top: 4rem;
+}
+
+.experiencia_titulo{
+    padding-top: 2rem;
+    text-align: center;
+    font-size: var(--montserrat);
+    font-size: 1.5rem;
+}
+
+.experiencia_box-1{
+    padding-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.experiencia_box-2{
+    display: flex;
+    flex-direction:row-reverse ;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+
+.experiencia_img-1{
+    width: 40rem;
+    padding-right: 2rem;
+}
+
+.experiencia_img-2{
+    width: 40rem;
+    padding-left: 2rem;
+}
+
+.experiencia_titulo{
+    font-size: var(--montserrat);
+    font-size: 2rem;
+    margin: .5rem;
+}
+
+.experiencia_text{
+    font-size: var(--oppen-sans);
+    font-style: italic;
+    margin: .5rem;
+}
+
+.experiencia_botao-repo{
+    background: turquoise;
+    border: none;
+    border-radius: 2rem;
+    width: 40%;
+    cursor: pointer;
+}
+
+.experiencia_botao-repo:hover{
+    background: darkorange;
+    transform: scale(1.2);
+}

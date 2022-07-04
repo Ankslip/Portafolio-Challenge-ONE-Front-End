@@ -1,0 +1,50 @@
+.menu{
+    background: var(--cor-de-cabecera);
+    padding-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    width: 98%;
+}
+
+.menu_header{
+    display: flex;
+    padding-right: 1rem;
+}
+
+.menu_header_img{
+    width: 10%;
+    height: 75%;
+    padding-right: 1rem;
+    padding-top: .5rem;
+}
+
+.menu_header_nombre{
+    font-size: 1.25rem;
+    font-family: var(--montserrat);
+    font-weight: 900;
+}
+
+.menu_lista{
+    display: flex;
+    text-align: center;
+}
+
+.menu_lista_item{
+    font-size: 1rem;
+    padding: 0 1rem 0 1rem;
+    font-family: var(--oppen-sans);
+    color: var(--cor-de-link);
+}
+
+.menu_lista_item:hover{
+    border-bottom: #F5F5F5 solid;
+}
+
+.menu_lista_estilo{
+    text-decoration: none;
+    color: var(--cor-de-link);
+    font-family: var(--oppen-sans);
+    font-size: 1rem;
+    font-weight: bold;
+}
